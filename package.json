@@ -1,0 +1,26 @@
+{
+  "name": "logger-ts",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asefa96/Logger-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asefa96/Logger-ts/issues"
+  },
+  "homepage": "https://github.com/asefa96/Logger-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "typescript": "^4.8.3"
+  }
+}
